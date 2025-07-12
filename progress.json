@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:11:27.143Z",
+  "generated_at": "2026-10-08T15:11:30.207Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -52,6 +52,45 @@
       "last_pushed_at": "2025-07-11T14:29:34.468Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2025-07-12T18:13:03.934Z",
+      "last_pushed_at": "2025-07-12T18:13:03.934Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2025-07-12T18:15:27.275Z",
+      "last_pushed_at": "2025-07-12T18:15:27.275Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2025-07-12T18:20:45.635Z",
+      "last_pushed_at": "2025-07-12T18:20:45.635Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
